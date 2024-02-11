@@ -1,8 +1,2 @@
-# React + Vite
+# ecommerce shopping cart application using react.js and redux for state management. This allows user to see products on home page and add the items to the cart. After adding one individual item in the cart user will show that item with increasing quantity. user can delete that cart item if wants.user can also increment and decrement the quantity of the item like we have in flipkart grocery shopping but item will be add once individually. Key features include subtotal,total,tax,shipping price based on how many items we are adding it will be update.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
